@@ -41,9 +41,6 @@ VERIFY_EXPIRE = int(os.environ.get('VERIFY_EXPIRE', 86400)) # in seconds
 IS_VERIFY = os.environ.get("IS_VERIFY", "True")
 TUT_VID = os.environ.get("TUT_VID","gojfsi/2")
 
-# Pics (you gave this, adding it)
-PICS = os.environ.get("PICS", "https://envs.sh/uxs.jpeg")
-
 # start message
 START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\nɪ ᴀᴍ ᴍᴜʟᴛɪ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ , ɪ ᴄᴀɴ sᴛᴏʀᴇ ғɪʟᴇs ɪɴ ᴍʏ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ᴛʜᴇᴍ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋs » @YourChannelHere</b>")
 
